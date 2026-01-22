@@ -57,8 +57,7 @@ I'm a passionate Machine Learning Engineer with hands-on experience in developin
 ## 📫 Let's Connect!
 I'm always up for interesting collaborations and AI/ML discussions. Feel free to reach out!
 
-<!-- Optionally add your contact info or socials here -->
-[LinkedIn](www.linkedin.com/in/d4rshn) • [Email](darshan105panchal@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/EXAMPLE) • [Email](mailto:EXAMPLE@gmail.com)
 
 ---
 
