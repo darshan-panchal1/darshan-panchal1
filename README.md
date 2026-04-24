@@ -35,7 +35,6 @@ AI & ML Engineer with 2+ years in production. I build and ship **multi-agent LLM
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-6E40C9?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-6E40C9?style=flat-square&logo=amazonaws&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Data & Vector Stores**
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
